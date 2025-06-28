@@ -1,3 +1,6 @@
+- name: Attest Build Provenance
+  uses: actions/attest-build-provenance@v2.4.0
+
 # For most projects, this workflow file will not need changing; you simply need
 # to commit it to your repository.
 #
